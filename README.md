@@ -9,7 +9,7 @@
 ### Search Engine
 #### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://c5b0-2600-6c44-74f0-94d0-d488-6c6e-3fdd-db05.ngrok-free.app/) | 12/2024
 
-- Built a scalable search engine similar to Google or Bing.
+- Built a scalable search engine similar to Google or Bing, for EECS 485.
 - Includes information retrieval concepts like text analysis (tf-idf) and link analysis (PageRank), and parallel data processing with MapReduce.
 - Uses a Service-Oriented Architecture to scale dynamic pages and web search.
 - Creates a segmented inverted index of web pages using a pipeline of MapReduce programs.
@@ -46,7 +46,7 @@ Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS
 
 ### Travelling Salesman Problem
 #### [Project Info]() | 06/2024                                                                                                
-- Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution.
+- Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution, for EECS 281.
 - To find the optimal tour, we started with our nearly optimal solution and then employed the brute-force method of exhaustive enumeration to achieve the optimal path while being time efficient. 
 
 Technologies: C++
