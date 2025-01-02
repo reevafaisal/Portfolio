@@ -22,3 +22,26 @@ Technologies: Python, SQL, Flask, HTML and CSS, JSON</p>
 Technologies: Python, Pandas, Scikit-learn </p>
   
 
+## Insta485 Client-Side Web Application
+#### [Project Info]() | [Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/) | 10/2024  
+- Developed an Instagram clone as part of a three-project sequence for EECS 485, focusing on building client-side dynamic pages using JavaScript, React, and AJAX.
+- Refactored the server-side logic from Flask into a REST API to handle asynchronous data requests, enabling real-time updates for user interactions such as likes, comments, and infinite scrolling without page reloads.
+- The project also includes features like double-click to like and seamless data fetching.
+- The following credentials can be used to test the system, username: awdeorio, password: chickens.
+- To login as any of the other users within the app, the password for login is "password".
+<!-- <p>
+  <img src="demo-infinitescroll-ezgif.com-video-to-gif-converter.gif" width="320px">
+  <img src="demo-insta485-heart-ezgif.com-video-to-gif-converter.gif" width="320px">
+</p>  -->
+Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS 
+
+## Travelling Salesman Problem
+#### 06/2024                                                                                                
+- Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution.
+- To find the optimal tour, we started with our nearly optimal solution and then employed the brute-force method of exhaustive enumeration to achieve the optimal path while being time efficient. 
+<!-- <p> 
+  <img src="Screenshot 2024-11-06 at 10.37.14 AM.png" width="100%">
+  <img src="Screenshot 2024-11-06 at 10.37.44 AM.png" width="100%"> 
+</p> -->
+
+Technologies: C++
