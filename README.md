@@ -10,7 +10,7 @@
 - Built an Index server, a REST API app that returns search results in JSON format.
 - Built a Search server, a user interface that returns search results just like Google or Bing.
     
-Technologies: Python, SQL, Flask, HTML and CSS, JSON</p>
+Technologies: Python, SQL, Flask, HTML and CSS, JSON
 
 ## Performance Predictions in TB and HIV  
 #### [Report](https://reevafaisal.github.io/Performance-Predictions-in-TB-HIV/index.html) | 11/2024 
@@ -19,7 +19,7 @@ Technologies: Python, SQL, Flask, HTML and CSS, JSON</p>
 - Feature engineering techniques such as logarithmic scaling and quantile transformation were applied to the baseline model to address data skewness and improve model performance.
 - The final model demonstrated an improvement in AUC for dual-burden mortality predictions, emphasizing the importance of early case detection in mitigating public health challenges.
 
-Technologies: Python, Pandas, Scikit-learn </p>
+Technologies: Python, Pandas, Scikit-learn 
 
 # MapReduce Framework
 #### [Project Info](https://reevafaisal.github.io/MapReduce/) | 10/2024
