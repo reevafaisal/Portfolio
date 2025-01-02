@@ -7,7 +7,7 @@
 ## Projects
 
 ### Search Engine
-#### [Project Info]() | [Demo](https://c5b0-2600-6c44-74f0-94d0-d488-6c6e-3fdd-db05.ngrok-free.app/) | 12/2024
+#### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://c5b0-2600-6c44-74f0-94d0-d488-6c6e-3fdd-db05.ngrok-free.app/) | 12/2024
 
 - Built a scalable search engine similar to Google or Bing.
 - Includes information retrieval concepts like text analysis (tf-idf) and link analysis (PageRank), and parallel data processing with MapReduce.
@@ -38,12 +38,9 @@ Technologies: Python, Pandas, Scikit-learn
 Technologies: Python, Madoop (Custom version of Hadoop)
 
 ### Insta485 Client-Side Web Application
-#### [Project Info]() | [Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/) | 10/2024  
+#### [Project Info](https://reevafaisal.github.io/Insta485/) | [Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/) | 10/2024  
 - Developed an Instagram clone as part of a three-project sequence for EECS 485, focusing on building client-side dynamic pages using JavaScript, React, and AJAX.
 - Refactored the server-side logic from Flask into a REST API to handle asynchronous data requests, enabling real-time updates for user interactions such as likes, comments, and infinite scrolling without page reloads.
-- The project also includes features like double-click to like and seamless data fetching.
-- The following credentials can be used to test the system, username: awdeorio, password: chickens.
-- To login as any of the other users within the app, the password for login is "password".
 
 Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS 
 
