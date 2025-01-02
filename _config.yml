@@ -1,7 +1,7 @@
 title: "Reeva Faisal" 
 
 description: > 
-  Senior studying Data Science at University of Michigan - Ann Arbor
+  Senior studying Data Science at the University of Michigan - Ann Arbor
   Undergraduate researcher at <a href="https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1">Future of Programming Lab</a>
 logo: "assets"
 email: reevaf@umich.edu
@@ -21,5 +21,7 @@ remote_theme: reevafaisal/jekyll-theme-minimal-new
 
 # editor.find.cursorMoveOnType: false
 navigation:
-  - name: Future of Programming Lab
-    link: ./index.html#future-of-programming-lab
+  - name: Introduction
+    link: ./index.html#introduction
+  - name: Projects
+    link: ./index.html#projects
