@@ -17,7 +17,7 @@ plugins:
 # color-scheme: light
 
 # remote_theme: reevafaisal/hexo-theme-edinburgh
-remote_theme: reevafaisal/jekyll-theme-minimalistic
+remote_theme: reevafaisal/jekyll-theme-minimal-new
 
 # editor.find.cursorMoveOnType: false
 navigation:
