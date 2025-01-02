@@ -38,19 +38,12 @@ Technologies: Python, Madoop (Custom version of Hadoop)
 - The project also includes features like double-click to like and seamless data fetching.
 - The following credentials can be used to test the system, username: awdeorio, password: chickens.
 - To login as any of the other users within the app, the password for login is "password".
-<!-- <p>
-  <img src="demo-infinitescroll-ezgif.com-video-to-gif-converter.gif" width="320px">
-  <img src="demo-insta485-heart-ezgif.com-video-to-gif-converter.gif" width="320px">
-</p>  -->
+
 Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS 
 
 ## Travelling Salesman Problem
 #### 06/2024                                                                                                
 - Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution.
 - To find the optimal tour, we started with our nearly optimal solution and then employed the brute-force method of exhaustive enumeration to achieve the optimal path while being time efficient. 
-<!-- <p> 
-  <img src="Screenshot 2024-11-06 at 10.37.14 AM.png" width="100%">
-  <img src="Screenshot 2024-11-06 at 10.37.44 AM.png" width="100%"> 
-</p> -->
 
 Technologies: C++
