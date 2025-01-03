@@ -11,7 +11,7 @@
 ## Projects
 
 ### Search Engine
-#### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://c5b0-2600-6c44-74f0-94d0-d488-6c6e-3fdd-db05.ngrok-free.app/) | 12/2024
+#### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://d421-2600-6c44-74f0-94d0-bd33-b2e1-223a-6fe5.ngrok-free.app/) | 12/2024
 
 - Built a scalable search engine similar to Google or Bing, for EECS 485.
 - Includes information retrieval concepts like text analysis (tf-idf) and link analysis (PageRank), and parallel data processing with MapReduce.
