@@ -1,6 +1,6 @@
 ## Introduction
 
-- Senior studying Data Science (B.S.) at the University of Michigan Ann Arbor
+- Senior studying Data Science (B.S.) at the University of Michigan Ann Arbor.
 - Working on building end-to-end, a tutorial mode feature for Hazel at the [Future of Programming Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1) (PI: Cyrus Omar, Assistant Professor).
 - Working on social network analysis on Bluesky at [Blue Data Lab](https://www-personal.umd.umich.edu/~tiananw/lab.html) (PI: Tian An Wong, Assistant Professor).
 
