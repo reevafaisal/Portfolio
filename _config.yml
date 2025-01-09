@@ -13,7 +13,7 @@ plugins:
 #   - jekyll-sitemap  
 #   - jekyll-seo-tag
 #   - jemoji
-# color-scheme: light
+color-scheme: light
 
 # remote_theme: reevafaisal/hexo-theme-edinburgh
 remote_theme: reevafaisal/jekyll-theme-minimal-new
