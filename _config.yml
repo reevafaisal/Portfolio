@@ -29,8 +29,8 @@ navigation:
       link: ./index.html#weather-data-analysis-and-anomaly-detection-with-ml-forecasting
     - name: Search Engine
       link: ./index.html#search-engine
-    - name: Performance Predictions in TB and HIV
-      link: ./index.html#performance-predictions-in-tb-and-hiv
+    - name: Mortality Outcome Prediction in TB and HIV
+      link: ./index.html#mortality-outcome-prediction-in-tb-and-hiv
     - name: MapReduce Framework
       link: ./index.html#mapreduce-framework
     - name: Insta485 Client-Side Web Application
