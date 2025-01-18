@@ -10,6 +10,18 @@
 
 ## Projects
 
+
+### Weather Data Analysis and Anomaly Detection with ML Forecasting
+#### [Report](https://reevafaisal.github.io/weather_predictions/index.html) | 01/2025
+
+- Conducted comprehensive analysis of the [Global Weather Repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data) dataset containing over 46,000 rows of meteorological data, including temperature, precipitation, and air quality indicators.
+- Designed and implemented advanced anomaly detection techniques (Z-Score, IQR, Isolation Forest) to identify statistical and environmental outliers.
+- Developed and compared time-series forecasting models (SARIMA, Random Forest, Stacked Ensemble) to predict temperature and precipitation trends with a focus on anomaly scenarios.
+- Explored geographical and spatial analysis through choropleth maps, highlighting regional variations in weather conditions and anomalies.
+- Evaluated feature importance using SHAP values, identifying wind speed and humidity as key drivers of air quality.
+
+Technologies: Python, Scikit-learn, Pandas, NumPy, Plotly, Graphviz
+
 ### Search Engine
 #### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://c584-35-0-130-167.ngrok-free.app/) | 12/2024
 
@@ -29,7 +41,7 @@ Technologies: Python, SQL, Flask, HTML and CSS, JSON
 - Feature engineering techniques such as logarithmic scaling and quantile transformation were applied to the baseline model to address data skewness and improve model performance.
 - The final model demonstrated an improvement in AUC for dual-burden mortality predictions, emphasizing the importance of early case detection in mitigating public health challenges.
 
-Technologies: Python, Pandas, Scikit-learn 
+Technologies: Python, Scikit-learn, Pandas, NumPy, Plotly 
 
 ### MapReduce Framework
 #### [Project Info](https://reevafaisal.github.io/MapReduce/) | 10/2024
