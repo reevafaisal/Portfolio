@@ -23,7 +23,7 @@
 Technologies: Python, Scikit-learn, Pandas, NumPy, Plotly, Graphviz
 
 ### Search Engine
-#### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](http://7ewfwy-ip-50-217-59-154.tunnelmole.net/) | 12/2024
+#### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://web-production-ec8c.up.railway.app/) | 12/2024
 
 - Built a scalable search engine similar to Google or Bing, for EECS 485.
 - Includes information retrieval concepts like text analysis (tf-idf) and link analysis (PageRank), and parallel data processing with MapReduce.
