@@ -11,7 +11,7 @@
 ## Projects
 
 
-### Weather Data Analysis and Anomaly Detection with ML Forecasting
+### Weather Patterns Time-Series Forecasting and Anomaly Detection
 #### [Report](https://reevafaisal.github.io/weather_predictions/index.html) | 01/2025
 
 - Conducted comprehensive analysis of the [Global Weather Repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data) dataset containing over 46,000 rows of meteorological data, including temperature, precipitation, and air quality indicators.
@@ -23,7 +23,7 @@
 Technologies: Python, Scikit-learn, Pandas, NumPy, Plotly, Graphviz
 
 ### Search Engine
-#### [Project Info](https://reevafaisal.github.io/SearchEngine/) | [Demo](https://web-production-ec8c.up.railway.app/) | 12/2024
+#### [Demo](https://reevafaisal.github.io/SearchEngine/) | 12/2024
 
 - Built a scalable search engine similar to Google or Bing, for EECS 485.
 - Includes information retrieval concepts like text analysis (tf-idf) and link analysis (PageRank), and parallel data processing with MapReduce.
@@ -44,7 +44,7 @@ Technologies: Python, SQL, Flask, HTML and CSS, JSON
 Technologies: Python, Scikit-learn, Pandas, NumPy, Plotly 
 
 ### MapReduce Framework
-#### [Project Info](https://reevafaisal.github.io/MapReduce/) | 10/2024
+#### [Demo](https://reevafaisal.github.io/MapReduce/) | 10/2024
 
 - MapReduce framework in Python inspired by Google’s original [MapReduce paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) for EECS 485.
 - Executes MapReduce programs with distributed processing on a cluster of computers like AWS EMR, Google Dataproc, or Microsoft MapReduce.
@@ -54,14 +54,14 @@ Technologies: Python, Scikit-learn, Pandas, NumPy, Plotly
 Technologies: Python, Madoop (Custom version of Hadoop)
 
 ### Insta485 Client-Side Web Application
-#### [Project Info](https://reevafaisal.github.io/Insta485/) | [Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/) | 10/2024  
+#### [Demo](https://reevafaisal.github.io/Insta485/) | 10/2024  
 - Developed an Instagram clone as part of a three-project sequence for EECS 485, focusing on building client-side dynamic pages using JavaScript, React, and AJAX.
 - Refactored the server-side logic from Flask into a REST API to handle asynchronous data requests, enabling real-time updates for user interactions such as likes, comments, and infinite scrolling without page reloads.
 
 Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS 
 
 ### Travelling Salesman Problem
-#### [Project Info](https://reevafaisal.github.io/TSP/) | 06/2024                                                                                                
+#### [Demo](https://reevafaisal.github.io/TSP/) | 06/2024                                                                                                
 - Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution, for EECS 281.
 - To find the optimal tour, we started with our nearly optimal solution and then employed the brute-force method of exhaustive enumeration to achieve the optimal path while being time efficient. 
 
