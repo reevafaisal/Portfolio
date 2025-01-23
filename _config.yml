@@ -25,8 +25,8 @@ navigation:
   - name: Projects
     link: ./index.html#projects
     sublist:
-    - name: Weather Data Analysis with ML Forecasting
-      link: ./index.html#weather-data-analysis-and-anomaly-detection-with-ml-forecasting
+    - name: Weather Patterns Forecasting & Anomaly Detection
+      link: ./index.html#weather-patterns-time-series-forecasting-and-anomaly-detection
     - name: Search Engine
       link: ./index.html#search-engine
     - name: Mortality Outcome Prediction in TB and HIV
