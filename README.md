@@ -23,7 +23,7 @@ presentation at Explore CS Research Showcase, April 10, 2025
 - This project is a web-based image extraction tool that crawls websites and retrieves images efficiently, built primarily in Java.
 - Supports any publicly accessible webpage as input.
 - Uses JSoup to fetch and parse webpages for images.
-- Queues subpages only within the same domain to prevent unnecessary external crawling.
+- Queues subpages only within the same domain to prevent external crawling.
 - Implements multi-threaded crawling so that the crawl can be performed on multiple sub-pages at a time.
 - Uses the Google Vision API to make image classification and to detect whether a logo is spotted within an image.
 - All images produced link to respective page or sub-page that they have been crawled from. 
