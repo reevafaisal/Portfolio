@@ -9,10 +9,9 @@
 
 ## Publications and Presentations
 
-**Faisal R**, Omar C. From Holes To Whole: Building A Guided Experience for Functional Programming in Hazel. Invited for poster
+- **Faisal R**, Omar C. *From Holes To Whole: Building A Guided Experience for Functional Programming in Hazel*. Invited for poster
 presentation at Explore CS Research Showcase, April 10, 2025
-
-Ahmed KS, **Faisal R**, Ali MM, Virani SS, Marcinak CT, Zafar SN. Predicting Post-discharge Infection: A Machine Learning-driven Composite Outcome Model for Patients Undergoing Pancreatectomy. Submitted to the American College of Surgeons’ Clinical Congress 2025
+- Ahmed KS, **Faisal R**, Ali MM, Virani SS, Marcinak CT, Zafar SN. *Predicting Post-discharge Infection: A Machine Learning-driven Composite Outcome Model for Patients Undergoing Pancreatectomy*. Submitted to the American College of Surgeons’ Clinical Congress 2025
 
 ---
 
