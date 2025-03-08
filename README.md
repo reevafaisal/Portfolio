@@ -28,7 +28,7 @@ presentation at Explore CS Research Showcase, April 10, 2025
 - Uses the Google Vision API to make image classification and to detect whether a logo is spotted within an image.
 - All images produced, link to the respective page or sub-page that they have been crawled from. 
     
-Technologies: Java, JSoup, Gson, ExecutorService, HTML, CSS, JavaScript, JSON, Google Vision API
+Technologies: Java, JSoup, Gson, HTML, CSS, JavaScript, JSON, Google Vision API
 
 ### Weather Patterns Time-Series Forecasting and Anomaly Detection
 #### [Report](https://reevafaisal.github.io/weather_predictions/index.html) | 01/2025
