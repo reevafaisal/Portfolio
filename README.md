@@ -19,7 +19,7 @@ Ahmed KS, **Faisal R**, Ali MM, Virani SS, Marcinak CT, Zafar SN. Predicting Pos
 ## Projects
 
 ### LogoScout
-#### [Demo](https://prolific-elegance-production.up.railway.app/) | 03/2024
+#### [Demo](https://reevafaisal.github.io/logo-scout-page/) | 03/2024
 
 - This project is a web-based image extraction tool that crawls websites and retrieves images efficiently, built primarily in Java.
 - Supports any publicly accessible webpage as input.
