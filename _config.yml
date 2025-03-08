@@ -22,6 +22,8 @@ remote_theme: reevafaisal/jekyll-theme-minimal-new
 navigation:
   - name: Introduction
     link: ./index.html#introduction
+  - name: Publications and Presentations
+    link: ./index.html#publications-and-presentations
   - name: Projects
     link: ./index.html#projects
     sublist:
