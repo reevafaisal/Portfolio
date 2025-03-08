@@ -26,7 +26,7 @@ presentation at Explore CS Research Showcase, April 10, 2025
 - Queues subpages only within the same domain to prevent external crawling.
 - Implements multi-threaded crawling so that the crawl can be performed on multiple sub-pages at a time.
 - Uses the Google Vision API to make image classification and to detect whether a logo is spotted within an image.
-- All images produced link to respective page or sub-page that they have been crawled from. 
+- All images produced, link to the respective page or sub-page that they have been crawled from. 
     
 Technologies: Java, JSoup, Gson, ExecutorService, HTML, CSS, JavaScript, JSON, Google Vision API
 
