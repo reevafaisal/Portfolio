@@ -7,13 +7,21 @@
 
 ---
 
+## Publications and Presentations
+
+**Faisal R**, Omar C. From Holes To Whole: Building A Guided Experience for Functional Programming in Hazel. Invited for poster
+presentation at Explore CS Research Showcase, April 10, 2025
+
+Ahmed KS, **Faisal R**, Ali MM, Virani SS, Marcinak CT, Zafar SN. Predicting Post-discharge Infection: A Machine Learning-driven Composite Outcome Model for Patients Undergoing Pancreatectomy. Submitted to the American College of Surgeons’ Clinical Congress 2025
+
+---
 
 ## Projects
 
 ### LogoScout
 #### [Demo](https://prolific-elegance-production.up.railway.app/) | 03/2024
 
-- This project is a web-based image extraction tool that crawls websites and retrieves images efficiently, built primarily in Java. It is designed to extract images from a given URL, queue subpages within the same domain, and filter results for logos or other specific image types.
+- This project is a web-based image extraction tool that crawls websites and retrieves images efficiently, built primarily in Java.
 - Supports any publicly accessible webpage as input.
 - Uses JSoup to fetch and parse webpages for images.
 - Queues subpages only within the same domain to prevent unnecessary external crawling.
