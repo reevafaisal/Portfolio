@@ -18,19 +18,6 @@
 
 ## Projects
 
-// ### LogoScout
-// #### [Demo](https://reevafaisal.github.io/logo-scout-page/) | 03/2024
-
-// - This project is a web-based image extraction tool that crawls websites and retrieves images efficiently, built primarily in Java.
-// - Supports any publicly accessible webpage as input.
-// - Uses JSoup to fetch and parse webpages for images.
-// - Queues subpages only within the same domain to prevent external crawling.
-// - Implements multi-threaded crawling so that the crawl can be performed on multiple sub-pages at a time.
-// - Uses the Google Vision API to make image classification and to detect whether a logo is spotted within an image.
-// - All images produced, link to the respective page or sub-page that they have been crawled from. 
-    
-// Technologies: Java, JSoup, Gson, HTML, CSS, JavaScript, JSON, Google Vision API
-
 ### Weather Patterns Time-Series Forecasting and Anomaly Detection
 #### [Report](https://reevafaisal.github.io/weather_predictions/index.html) | 01/2025
 
