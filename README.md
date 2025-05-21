@@ -66,10 +66,3 @@ Technologies: Python, Madoop (Custom version of Hadoop)
 - Refactored the server-side logic from Flask into a REST API to handle asynchronous data requests, enabling real-time updates for user interactions such as likes, comments, and infinite scrolling without page reloads.
 
 Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS 
-
-### Travelling Salesman Problem
-#### [Demo](https://reevafaisal.github.io/TSP/) | 06/2024                                                                                                
-- Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution, for EECS 281.
-- To find the optimal tour, we started with our nearly optimal solution and then employed the brute-force method of exhaustive enumeration to achieve the optimal path while being time efficient. 
-
-Technologies: C++
