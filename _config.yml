@@ -27,8 +27,8 @@ navigation:
   - name: Projects
     link: ./index.html#projects
     sublist:
-    - name: LogoScout
-      link: ./index.html#logoscout
+    # - name: LogoScout
+    #   link: ./index.html#logoscout
     - name: Weather Patterns Forecasting & Anomaly Detection
       link: ./index.html#weather-patterns-time-series-forecasting-and-anomaly-detection
     - name: Search Engine
@@ -39,5 +39,5 @@ navigation:
       link: ./index.html#mapreduce-framework
     - name: Insta485 Client-Side Web Application
       link: ./index.html#insta485-client-side-web-application
-    - name: Travelling Salesman Problem
-      link: ./index.html#travelling-salesman-problem
+    # - name: Travelling Salesman Problem
+    #   link: ./index.html#travelling-salesman-problem
