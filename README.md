@@ -1,7 +1,7 @@
 ## Introduction
 
 - Working as a Data Integration Analyst at the University of Wisconsin-Madison.
-- Data Science (B.S.) graduate from the University of Michigan Ann Arbor.
+- Data Science (B.S.) graduate from the University of Michigan-Ann Arbor.
 
 ---
 
