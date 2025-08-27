@@ -24,20 +24,20 @@ navigation:
     link: ./index.html#introduction
   - name: Publications and Presentations
     link: ./index.html#publications-and-presentations
-  - name: Projects
-    link: ./index.html#projects
-    sublist:
-    # - name: LogoScout
-    #   link: ./index.html#logoscout
-    - name: Weather Patterns Forecasting & Anomaly Detection
-      link: ./index.html#weather-patterns-time-series-forecasting-and-anomaly-detection
-    - name: Search Engine
-      link: ./index.html#search-engine
-    - name: Mortality Outcome Prediction in TB and HIV
-      link: ./index.html#mortality-outcome-prediction-in-tb-and-hiv
-    - name: MapReduce Framework
-      link: ./index.html#mapreduce-framework
-    - name: Insta485 Client-Side Web Application
-      link: ./index.html#insta485-client-side-web-application
-    # - name: Travelling Salesman Problem
+  # - name: Projects
+  #   link: ./index.html#projects
+  #   sublist:
+  #   # - name: LogoScout
+  #   #   link: ./index.html#logoscout
+  #   - name: Weather Patterns Forecasting & Anomaly Detection
+  #     link: ./index.html#weather-patterns-time-series-forecasting-and-anomaly-detection
+  #   - name: Search Engine
+  #     link: ./index.html#search-engine
+  #   - name: Mortality Outcome Prediction in TB and HIV
+  #     link: ./index.html#mortality-outcome-prediction-in-tb-and-hiv
+  #   - name: MapReduce Framework
+  #     link: ./index.html#mapreduce-framework
+  #   - name: Insta485 Client-Side Web Application
+  #     link: ./index.html#insta485-client-side-web-application
+  #   # - name: Travelling Salesman Problem
     #   link: ./index.html#travelling-salesman-problem
